@@ -20,8 +20,6 @@
   <a href="#license">License</a>
 </p>
 
-<br>
-
 ## Project
 
 This project is about creating the blockchain in C#, using .NET Core and NBitcoin.
