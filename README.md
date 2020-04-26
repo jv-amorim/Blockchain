@@ -27,7 +27,8 @@ This project is about creating the blockchain in C#, using .NET Core and NBitcoi
 ## Tools
 
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/);
-- [NBitcoin](https://github.com/MetacoSA/NBitcoin).
+- [NBitcoin](https://github.com/MetacoSA/NBitcoin);
+- [QBitNinja.Client](https://www.nuget.org/packages/QBitNinja.Client/) - QBit Ninja is an open source web service API to query the blockchain and for tracking wallets.
 
 ## License
 
