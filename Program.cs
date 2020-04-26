@@ -9,9 +9,7 @@ namespace Blockchain
     class Program
     {
         static void Main(string[] args)
-        {
-            // TO-DO: To write in README how to use this project, and how to get data of transactions to use as examples.
-            
+        {            
             QBitNinjaClient client = new QBitNinjaClient(Network.Main);
 
             var transactionId = uint256.Parse("f13dc48fb035bbf0a6e989a26b3ecb57b84f85e0836e777d6edf60d87a4a2d94");
